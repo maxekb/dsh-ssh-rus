@@ -99,7 +99,10 @@
     "src",
     "cordis.patch.yml",
     "README.md",
-    "icon.svg"
+    "icon.svg",
+    "README.en.md",
+    "NOTICE",
+    "LICENSE"
   ],
   "license": "Apache-2.0",
   "repository": {

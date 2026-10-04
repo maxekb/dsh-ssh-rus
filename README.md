@@ -1,3 +1,4 @@
+<!-- Modified for dsh-ssh-rus by maxekb (2026); based on @linxin666/dsh-ssh 0.4.2 (Apache-2.0). See NOTICE. -->
 # dsh-ssh-rus
 
 Удалённые SSH-операции для веб-GUI **DeepSeek Harness (DSH)**: менеджер хостов, веб-терминал,
@@ -7,6 +8,8 @@
 Это **форк** плагина `@linxin666/dsh-ssh` 0.4.2 (Apache-2.0, автор — zhu1090093659,
 [github.com/zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)), переработанный
 под самостоятельную сборку и сопровождение. Не связан с автором апстрима и не одобрен им.
+
+English version: [README.en.md](./README.en.md).
 
 ## Чем отличается от апстрима
 
