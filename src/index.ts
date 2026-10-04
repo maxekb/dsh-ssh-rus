@@ -1,3 +1,4 @@
+// Modified for dsh-ssh-rus by maxekb (2026); based on @linxin666/dsh-ssh 0.4.2 (Apache-2.0). See NOTICE.
 /**
  * dsh-ssh — host half. Mounts the SSH engine (persistent ssh2 connection
  * pool, exec / PTY shell / SFTP / tunnels / cluster), the /api/dsh-ssh route

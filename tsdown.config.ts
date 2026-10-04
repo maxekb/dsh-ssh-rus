@@ -1,3 +1,4 @@
+// Modified for dsh-ssh-rus by maxekb (2026); based on @linxin666/dsh-ssh 0.4.2 (Apache-2.0). See NOTICE.
 /**
  * Standalone build config for the dsh-ssh plugin.
  *

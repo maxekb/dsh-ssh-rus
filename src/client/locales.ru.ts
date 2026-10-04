@@ -1,3 +1,4 @@
+// New in dsh-ssh-rus by maxekb (2026); based on @linxin666/dsh-ssh 0.4.2 (Apache-2.0). See NOTICE.
 /**
  * Russian copy for the dsh-ssh-rus surface. `zh` stays the key source; the
  * `Record<keyof typeof zh, string>` type makes a missing or misspelled key a

@@ -1,0 +1,16 @@
+dsh-ssh-rus
+Copyright 2026 maxekb (modifications)
+
+This product is a modified fork of @linxin666/dsh-ssh 0.4.2,
+Copyright the dsh-web authors (https://github.com/zhu1090093659/dsh-web),
+licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Files changed by this fork carry a "Modified for dsh-ssh-rus by maxekb (2026)"
+notice in their header; new files carry a "New in dsh-ssh-rus" notice. The full
+list of changes is in README.md ("Лицензия и происхождение").
+
+Changes: Russian UI localisation; removal of the upstream anonymous telemetry
+heartbeat (src/client/telemetry.ts deleted); self-contained build preset
+(shared/); own plugin identity (package and bundle row name, mount key,
+/api/dsh-ssh-rus route family, locale namespace, bus symbols); agent guidance
+rewritten in Russian; new icon.
